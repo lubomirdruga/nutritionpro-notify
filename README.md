@@ -58,10 +58,31 @@ The bot integrates with:
 3. Receive automatic notifications for each meal
 4. Use `/menu` to check your daily menu anytime
 
-# Screenshots
+## Screenshots
 
-<div style="display: flex; justify-content: space-evenly;">
-    <img src="examples/initial-flow.png" width="30%" alt="Initial Flow">
-    <img src="examples/menu-command.png" width="30%" alt="Menu Command">
-    <img src="examples/cron-meal-courses.png" width="30%" alt="Cron Meal Courses">
-</div>
+### Initial flow screenshot
+
+<details>
+    <summary>
+        Click to expand/collapse
+    </summary>
+    <img src="examples/initial-flow.png" alt="Initial Flow">
+</details>
+
+### Menu command
+
+<details>
+    <summary>
+        Click to expand/collapse
+    </summary>
+    <img src="examples/menu-command.png" alt="Menu Command">
+</details>
+
+### Cron meal courses
+
+<details>
+    <summary>
+        Click to expand/collapse
+    </summary>
+    <img src="examples/cron-meal-courses.png" alt="Cron Meal Courses">
+</details>
